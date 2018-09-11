@@ -15,4 +15,4 @@ public class MOsAlgo {
 			sum = 0;
 		}			
 	}
-}	
+}
