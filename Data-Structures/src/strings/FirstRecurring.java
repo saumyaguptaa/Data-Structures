@@ -12,8 +12,7 @@ public class FirstRecurring {
 			hs.add(s.charAt(i));
 			if(hs.size()!=l+1) {
 				System.out.println(s.charAt(i));
-				System.exit(0);
-			}
+		}
 				
 		}
 		
