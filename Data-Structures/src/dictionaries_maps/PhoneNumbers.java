@@ -14,7 +14,7 @@ public class PhoneNumbers {
 		for(int i =0; i<n; i++) {
 			pn[i] = sc.nextLine();		
 		}
-/*		for(String i : pn) {
+		for(String i : pn) {
 			temp = i.split(" ");
 			map.put(temp[0], temp[1]);
 		}
@@ -25,6 +25,5 @@ public class PhoneNumbers {
 			else
 				System.out.println("Not found");
 		}
-		sc.close();*/
 	}
 }
