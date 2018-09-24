@@ -15,6 +15,7 @@ public class NaivePatternMatching {
 					atLeastOnce = true;
 			}
 				offset += i.length()+1;
+				
 			
 		}	
 		if(atLeastOnce==false)
